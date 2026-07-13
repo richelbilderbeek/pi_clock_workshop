@@ -18,7 +18,13 @@ uses the ATmega328P chip of an Arduino
 
 ## How does the end result look like?
 
-At the end of the workshop, we go home empty-handed.
+If you have bought the components for the Minimal Pi Clock,
+you may have a completely soldered Minimal Pi Clock PCB.
+
+[![Minimal Pi Clock on PCB](solder/20191117_2_20.jpg)](solder/20191117_2_20.jpg)
+
+Else, at the end of the workshop, you go home
+with the knowledge to build a bare-bone Arduino.
 
 Before disassembling, we do have a machine on a breadboard:
 
@@ -26,18 +32,18 @@ Before disassembling, we do have a machine on a breadboard:
 
 ## Can I keep the components?
 
-No.
+If you buy them.
 
-You can buy them, however.
+Else, we will return these to where they came from.
 
 ## What can I do after this workshop?
 
 After this workshop, you can
 
+- if you have [bought the components](buy_components/README.md):
+  build the Minimal Pi Clock
 - create your own bare-bone Arduino machines:
   just upload some other code
-- build the machine:
-  for this, you do need to [buy the components](buy_components/README.md).
 
 ## At what level is the workshop taught?
 
