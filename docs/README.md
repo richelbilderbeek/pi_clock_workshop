@@ -3,7 +3,13 @@ tags:
   - Main page
 ---
 
-# Build a bare-bone Arduino machine workshop
+# Building a Minimal Pi Clock
+
+In this workshop we build the start of
+[a Minimal Pi Clock](https://richelbilderbeek.github.io/minimal_pi_clock)
+(costs: 160 kr).
+Alternatively, Without soldering any component (hence for free),
+we learn how to build a bare-bone Arduino.
 
 ## Goal
 
@@ -14,7 +20,7 @@ uses the ATmega328P chip of an Arduino
 
 [![Minimal Pi Clock on breadboard](build_breadboard/broadboard_20.jpg)](build_breadboard/broadboard.jpg)
 
-The machine we'll build is [a Minimal Pi Clock](https://richelbilderbeek.github.io/minimal_pi_clock/schematic/).
+The machine we'll build is [a Minimal Pi Clock](https://richelbilderbeek.github.io/minimal_pi_clock).
 
 Using the skills taught in this workshop,
 you can build you own machines
