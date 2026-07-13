@@ -13,7 +13,7 @@ we learn how to build a bare-bone Arduino.
 
 ## Goal
 
-The goal of this workshop is to be able to create
+The first goal of this workshop is to be able to create
 a bare-bone Arduino machine, i.e. a machine that only
 uses the ATmega328P chip of an Arduino
 (and not a complete Arduino Uno):
@@ -26,8 +26,8 @@ Using the skills taught in this workshop,
 you can build you own machines
 using only the ATmega328P chip.
 
-Optionally, you can buy the tested components and make this into
-a proper Minimal Pi Clock.
+The second and optional goal of this workshop
+is to make this into a proper Minimal Pi Clock.
 
 ![Minimal Pi Clock](20260627.jpg)
 
