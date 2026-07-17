@@ -8,7 +8,7 @@ tags:
 In this workshop we build the start of
 [a Minimal Pi Clock](https://richelbilderbeek.github.io/minimal_pi_clock)
 (costs: 160 kr).
-Alternatively, Without soldering any component (hence for free),
+Alternatively, without soldering any component (hence for free),
 we learn how to build a bare-bone Arduino.
 
 ## Goal

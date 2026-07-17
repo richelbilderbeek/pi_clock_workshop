@@ -1,4 +1,4 @@
-# Pi Clock Workshop
+# Building a Minimal Pi Clock workshop
 
 <!-- markdownlint-disable MD013 --><!-- Table rows must be put on one line, hence 80 chars is unavoidable -->
 
@@ -9,7 +9,7 @@
 
 <!-- markdownlint-enable MD013 -->
 
-[Go to our nicely rendered website](https://uppsala-makerspace.github.io/loerdagskurser/).
+[Go to our nicely rendered website](https://richelbilderbeek.github.io/build_minimal_pi_clock_workshop/).
 
 - [Contributing](docs/CONTRIBUTING.md)
 
