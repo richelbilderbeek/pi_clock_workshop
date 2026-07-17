@@ -3,7 +3,7 @@ tags:
   - Main page
 ---
 
-# Building a Minimal Pi Clock
+# Building a Minimal Pi Clock workshop
 
 In this workshop we build the start of
 [a Minimal Pi Clock](https://richelbilderbeek.github.io/minimal_pi_clock)
